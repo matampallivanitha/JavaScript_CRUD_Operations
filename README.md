@@ -1,4 +1,3 @@
-# JavaScript_CRUD_Operations
 # JavaScript CRUD Operations
 
 ## Project Overview
