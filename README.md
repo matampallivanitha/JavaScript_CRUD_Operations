@@ -30,4 +30,6 @@ JavaScript_CRUD_Operations/
    ```
 2. **Open `index.html` in a Browser**
 
+## Output Screens
+![image](https://github.com/user-attachments/assets/673fb472-6d7a-4a1f-afa1-7529affec04a)
 
